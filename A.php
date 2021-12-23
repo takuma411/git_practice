@@ -7,7 +7,9 @@
     <title>A</title>
 </head>
 <body>
-    <h1>山口拓馬です。編集</h1>
+    <h1>山口拓馬です。編集
+        ログイン
+    </h1>
     
 </body>
 </html>
